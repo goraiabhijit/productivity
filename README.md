@@ -1,5 +1,5 @@
 A work in progress...
-<img src="/assets/stopwatch.jpeg" height:50 width:10><img>
+<img src="/assets/stopwatch.jpeg" height:5 width:1><img>
 
 # Productivity App
 
